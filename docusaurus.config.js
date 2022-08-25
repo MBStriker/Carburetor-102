@@ -63,7 +63,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/MBStriker/Carburetor102',
+            href: 'https://github.com/MBStriker/Carburetor-102',
             label: 'GitHub',
             position: 'right',
           },
