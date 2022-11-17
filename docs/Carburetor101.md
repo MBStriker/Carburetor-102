@@ -17,4 +17,4 @@ The float bowl is where the fuel makes its first entrance from the gas tank into
 Just as the name suggests, the float is either rested on, or attached to, the needle valve and the height of the float determines the depth and level of the fuel in the carburetor.
 
 ## The Carburetor Body
-The body of a carburetor typically consists of 
+The body of a carburetor typically consists of the bell mouth, jet passageways, fuel passageways (for choke, idle, and main jet's respectfully), and air passageways (typically for fuel emulsion).
