@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 # Introduction to the Carburetor 
+![A Mikuni Carburetor](mikuni1.jpg)
 
 The lowly carburetor is one of the most misunderstood parts of an engine. They can be small, simple devices, or large and quite complicated. However, they ALL have one thing in common... they convert liquid fuel into emulsified vapor which makes your engine run.
 
