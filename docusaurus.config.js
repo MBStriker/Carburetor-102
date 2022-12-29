@@ -104,4 +104,8 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  title: 'Carburetor102',
+  staticDirectories: [ 'static'],
+  // ...
+};
